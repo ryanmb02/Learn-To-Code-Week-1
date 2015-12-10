@@ -62,7 +62,7 @@ a {
 	position: relative;
 	margin: 0 auto;
 	padding: 0 0 20px 0;
-	height: 500px;
+	height: 300px;
 }
 
 .section img {
@@ -142,19 +142,19 @@ a {
 }
 
 .s1 {
-	background:#184764;
+	background: blue;
 	color:#fff;
 
 }
 
 
 .s2 {
-	background: #313131;
+	background: red;
 }
 .s2 a {
 	color: #fff;
 }
 
 .s3 {
-	background: #1b83b3;
+	background: yellow;
 }
